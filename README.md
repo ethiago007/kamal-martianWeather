@@ -48,6 +48,13 @@ https://github.com/ethiago007/kamal-martianWeather.git
 * +2349064252791 (calls and WhatsApp)
 * mohammedkamaldeen204@gmail.com
 
+## SPECIAL THANKS AND REFERENCE
+* https://css-tricks.com/css-link-hover-effects powered by Digital Ocean
+* Hubspot
+* Coding Artist
+* NASA
+* Programmable Web
+* ACEDU
 
 ### License
 
